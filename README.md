@@ -1,7 +1,7 @@
 # Sobre Mim 
 - 👋 Olá, meu nome é @eliezercarvalho
 - Meu email de contato é c.eliezer@escola.pr.gov.br
-- 👀 Eu estou interessado em aprender a programar novas linguagens a linguegem de JavaScript e Scratch
+- 👀 Eu estou interessado em aprender a programar novas linguagens a linguagem de JavaScript e Scratch
 - 🌱 Estou aprendendo a programar recenteńtemente 
 
 <!---
